@@ -10,6 +10,17 @@ body {
     background-color: #d9dcd6;
 }
 
+
+/* Background Image tried moving up so it would load */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url(".assets\images\digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
 /* Block Elements */
 a {
     color: #ffffff;
@@ -21,6 +32,7 @@ p {
 }
 
 /* class Elements */
+
 /* Header */
 .header {
     padding: 20px;
@@ -38,7 +50,8 @@ p {
     color: #d9dcd6;
 }
 
-.header div {
+/* updated header div to navigation */
+.header navigation {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -46,24 +59,15 @@ p {
     font-size: 20px;
 }
 
-.header div ul {
+.header navigation ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header navigation ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* Background Image */
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
 
 .float-left {
     float: left;
