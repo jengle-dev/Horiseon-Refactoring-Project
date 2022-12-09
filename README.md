@@ -20,7 +20,7 @@ On click of "Online Reputation Management" in the top right menu, the page shoul
 On click of "Social Media Marketing" in the top right menu, the page should link to "Social Media Marketing" section below with a blue background and image of a group of people at a table with speech bubbles related to social media.
 There is a right aside section that has a blue background with black icons and text about additional features the company provides.
 
-![screenshot]Horiseon-Webpage-Example.png
+![image](https://user-images.githubusercontent.com/117794203/206606923-bac1ef65-bb02-4007-b17b-a3037766116a.png)
 
 ## Support
 If there are issues with the site, please reach out to me, Jennifer Engle, at j.engle.dev@gmail.com and reference the site's URL. Please provide any screenshots and behavior along with your browser information.
