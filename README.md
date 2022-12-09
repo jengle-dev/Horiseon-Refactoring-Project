@@ -7,7 +7,7 @@ The goal of this project was to review an existing webpage, deconstruct and refa
 N/A
 
 ## Visuals
-The site is developed for desktop view and may have unexpected display issues in smaller screens.
+The site is developed for desktop view and may have unexpected display issues in smaller screens. 
 
 ## Installation
 No special installation is needed to view this site. 
@@ -19,6 +19,8 @@ On click of "Search Engine Optimization" in the top right menu, the page should 
 On click of "Online Reputation Management" in the top right menu, the page should link to "Online Reputation Management" section below with a blue background and image of a laptop with a growth bar graph on its screen.
 On click of "Social Media Marketing" in the top right menu, the page should link to "Social Media Marketing" section below with a blue background and image of a group of people at a table with speech bubbles related to social media.
 There is a right aside section that has a blue background with black icons and text about additional features the company provides.
+
+![screenshot] assets\images\Horiseon-Webpage-Example.png
 
 ## Support
 If there are issues with the site, please reach out to me, Jennifer Engle, at j.engle.dev@gmail.com and reference the site's URL. Please provide any screenshots and behavior along with your browser information.
